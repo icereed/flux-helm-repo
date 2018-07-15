@@ -1,5 +1,5 @@
 # Helm packages
-*.tgz
+#*.tgz
 
 # Binaries for programs and plugins
 *.exe
